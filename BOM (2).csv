@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","PCB",1,22.43,"","JLCPCB"
+"Raspberry Pi Pico 2W","Microcontroller",1,14.82,"https://www.amazon.in/Raspberry-Dual-Core-Microcontroller-Cortex-M33-Bluetooth","Amazon"
+"0.91"" OLED Display","Display",1,4.11,"https://www.amazon.in/gp/product/B084H9HLCS","Amazon"
+"1N4148 Diodes","Diodes",100,1.56,"https://www.amazon.in/gp/product/B0DRMGYSXB","Amazon"
+"Rotary Encoder","Rotary Encoder",1,1.82,"https://www.amazon.in/gp/product/B0888RWNM1","Amazon"
+"Cherry MX Switches","Switches",89,5.28,"https://www.amazon.in/gp/product/B0G39H2G4H","Amazon"
+"Keycaps","Keycaps",89,10.56,"https://www.amazon.in/gp/product/B0GFNPXVJL","Amazon"
+"Keycap Stabilizers pack","Stabilizers",1,9.18,"https://www.amazon.in/gp/product/B0GVKSLP46","amazon"
+"Adafruit MCP23017 I2C GPIO Expander Breakout","GPIO Expander Breakout",1,33.44,"https://www.amazon.in/gp/product/B0BPN3BD1Q","Amazon"
+"M3x5x4 Heatset inserts","Heatset inserts",1,2.07,"https://www.amazon.in/gp/product/B0CX1BS7DJ","Amazon"
