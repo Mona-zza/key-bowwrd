@@ -23,3 +23,22 @@ My this keyboard is equiped with 89 keys, 1 rotary encoder switch and 0.91" OLED
 <img width="1063" height="579" alt="cart1" src="https://github.com/user-attachments/assets/561de4c5-2db7-4329-8b04-42a653ce46c3" />
 <img width="769" height="957" alt="Screenshot 2026-06-29 143236" src="https://github.com/user-attachments/assets/2261215c-4873-4bbf-a3e0-d0cbe312ae36" />
 <img width="653" height="130" alt="Screenshot 2026-06-29 144806" src="https://github.com/user-attachments/assets/d76e86ab-729e-4f75-b139-a4b2fbe8face" />
+
+## Bill of Materials (BOM)
+
+| Item | Purpose | Qty | Total Price (USD) | Purchase Link | Distributor |
+|------|---------|----:|------------------:|---------------|-------------|
+| PCB | PCB | 1 | $22.43 | N/A | JLCPCB |
+| Raspberry Pi Pico 2W | Microcontroller | 1 | $14.82 | https://www.amazon.in/Raspberry-Dual-Core-Microcontroller-Cortex-M33-Bluetooth | Amazon |
+| 0.91" OLED Display | Display | 1 | $4.11 | https://www.amazon.in/gp/product/B084H9HLCS | Amazon |
+| 1N4148 Diodes | Diodes | 100 | $1.56 | https://www.amazon.in/gp/product/B0DRMGYSXB | Amazon |
+| Rotary Encoder | Rotary Encoder | 1 | $1.82 | https://www.amazon.in/gp/product/B0888RWNM1 | Amazon |
+| Cherry MX Switches | Switches | 89 | $5.28 | https://www.amazon.in/gp/product/B0G39H2G4H | Amazon |
+| Keycaps | Keycaps | 89 | $10.56 | https://www.amazon.in/gp/product/B0GFNPXVJL | Amazon |
+| Keycap Stabilizers Pack | Stabilizers | 1 | $9.18 | https://www.amazon.in/gp/product/B0GVKSLP46 | Amazon |
+| Adafruit MCP23017 I²C GPIO Expander Breakout | GPIO Expander | 1 | $33.44 | https://www.amazon.in/gp/product/B0BPN3BD1Q | Amazon |
+| M3×5×4 Heatset Inserts | Heatset Inserts | 1 | $2.07 | https://www.amazon.in/gp/product/B0CX1BS7DJ | Amazon |
+
+### Total Cost
+
+**≈ $105.27 USD**
